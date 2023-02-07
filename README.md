@@ -1,8 +1,8 @@
-# Books-bootstrap-website
-In this project, we had created a complete books website.
+You can view my site on 
+https://incandescent-empanada-2dd22c.netlify.app/
 
-Top Open this website just go to src and open Index.html file.
-That's it.
-Enjoy...!
-# SPPU-BOOK-SELLING-WEBSITE 
+
+#Books-bootstrap-website
+
+In this project, i have created a complete books website.# SPPU-BOOK-SELLING-WEBSITE 
 Complete Responsive Website Using Bootstrap/HTML/CSS
